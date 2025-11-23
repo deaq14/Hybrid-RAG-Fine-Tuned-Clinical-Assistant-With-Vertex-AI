@@ -64,4 +64,4 @@ Enter a medical question: What are the symptoms of Diabetes?
 [System]: Retrieving context... [Model Response]: Based on the clinical data, the symptoms include increased thirst, frequent urination, hunger, fatigue, and blurred vision...
 
 ## Author
-#Steven Ricardo Deaquis Barrera
+Steven Deaquis Systems Engineer | Certified Data Scientist | Bilingual ML Developer Focused on reproducible pipelines, international deployment, and performance tracking.
